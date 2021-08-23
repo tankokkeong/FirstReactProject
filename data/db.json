@@ -1,0 +1,11 @@
+{
+    "posts":[
+        {
+            "title": "The First Post",
+            "body": "Post whatever things you want here without the need of authentication.",
+            "author": "Admin",
+            "id": 1,
+            "createdAt" : "20:37 - 23 August 2020"
+        }
+    ]
+}
